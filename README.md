@@ -31,5 +31,5 @@ ys = np.array([2.89, 2.29, 3.99, 3.475, 2.5, 0.97], dtype = float)
 model.fit(xs, ys, epochs = 1000)
 
 print(model.predict([4.0])
-``` 
+```  
 
