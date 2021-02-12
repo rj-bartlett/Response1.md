@@ -18,8 +18,10 @@ model.fit(xs,ys,epochs = 500)
 print(model.predict([7.0]))
 ```
 
-First result: 12.988924 /n
-Second result: 12.987505 /n
+First result: 12.988924 
+
+Second result: 12.987505 
+
 Explaination: 
 
 ### C
