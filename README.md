@@ -22,6 +22,15 @@ First result: 12.988924
 
 Second result: 12.987505 
 
-Explaination: 
+Explaination: Every time the model is fit, the result will be slightly different because it starts with a randomized weight and the optimizer and loss function work methodically from that original weight. The final loss/accuracy of the model will be very similar but never exactly the same. As you can see above, the results for predicting 7.0 are the same for the first 4 digits and then vary due to slight variation in learning. 
 
 ### C
+``` python
+
+```
+Best deal: 
+
+Worst deal: 
+
+Justification: 
+
